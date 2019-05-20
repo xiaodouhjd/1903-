@@ -1,0 +1,152 @@
+
+/* 头部 */
+.header{
+    height: 40px;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding-top: 28px;
+}
+.logo{
+    float: left;
+    height: 20px;
+    width: 110px;
+    overflow: hidden;
+    display: block;
+    color: #515151;
+    text-decoration: none;
+   
+}
+.i_icon{
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: url(../images/base.png) -2px -4px no-repeat;
+}
+.container{
+    background:#edf9fb;
+}
+.content{
+    position: relative;
+    width: 1240px;
+    height: 750px;
+    margin: 0 auto;
+    background: url(../images/banner.png)no-repeat;
+    position: relative;
+ }
+ /* 登录部分 */
+ #login{
+    width: 298px;
+    position: absolute;
+    top: 17%;
+    right: 85px;
+    background-color: #FFF;
+    padding: 35px 35px 10px;
+    border-radius: 2px;
+    height: 450px;
+ }
+ .tab-title{
+    font-size: 18px;
+    margin-bottom: 60px;
+    margin-top: 10px;
+    width: 300px;
+    text-align: center;
+    box-sizing: border-box;
+ }
+ .passlogin{
+    margin-right: 20px;
+ }
+ .ewmlogin{
+    margin-left: 20px;
+ }
+ .username{
+    width: 94%;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    text-indent: 5px;
+ }
+ .password{
+    width: 94%;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin:20px 0 0 10px;
+    text-indent: 5px;
+ }
+ .q_password{
+    width: 94%;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin:20px 0 0 10px;
+    text-indent: 5px;
+ }
+ .verify{
+    width: 50%;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin:20px 0 0 10px;
+    text-indent: 5px;
+ }
+ .verify_1{
+    width: 30%;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    margin:20px 20px 0 10px;
+    text-align: center;
+    line-height: 46px;
+    cursor: pointer;
+    color: black;
+ }
+ .btn{
+        width: 94%;
+        height: 46px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        margin: 0 auto;
+        margin:20px 0 0 10px;
+        background: #32a5e7;
+        color: #FFF;
+        cursor: pointer;
+ }
+ #jizhu{
+    margin:20px 10px 0 10px;
+ }
+ .qita{
+     margin-top: 15px;
+ }
+ .register {margin-right:20px
+     
+ }
+ .qita a{
+     color: #32a5e7;
+ }
+ .tixin{
+    position: absolute;
+    height: 33px;
+    width: 280px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    border: solid 1px #ffc2b3;
+    background: #ffd1ca;
+    border-radius: 2px;
+    top: 80px;
+    margin-left: 10px;
+    display: none;
+    line-height: 34px;
+   
+ }
+ .error{
+     vertical-align: middle;
+     margin-left: 10px;
+ }
+ #tishi{
+    font-size: 12px;
+ }
+ .selected{
+    display: block;
+  }

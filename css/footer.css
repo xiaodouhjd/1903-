@@ -1,0 +1,109 @@
+ /* 底部 */
+ .footer{
+    margin: 0 auto;
+    max-width: 1200px;
+    height: 130px;
+ }
+ .f_main{
+    width: 1200px;
+    margin: 24px auto 30px;
+ }
+ .f_l{
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    line-height: 50px;
+    width: 445px;
+    margin-left: 65px;
+    position: relative;
+ }
+ .f_l li{
+    float: left;
+    padding: 0 4px;
+    color: black;
+ }
+ .f_main{
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    line-height: 50px;
+ }
+ .f_c{
+    float: left;
+    margin-left: 40px
+ }
+ .f_c a{
+    display: inline-block;
+    *margin-top: 5px;
+    _margin-top: 16px;
+    height: 20px;
+    line-height: 18px;
+    width:64px;
+    color: white;
+    background-color: #32a5e7;
+    border-radius: 2px;
+    -webkit-border-radius:2px;
+    -moz-border-radius: 2px;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 24px;
+ }
+ .f_r{
+    float: left;
+    margin-left: 145px;
+    position: relative;
+ }
+ .fengxiang{
+    margin-left: 10px;
+    display: inline-block;
+    overflow: hidden;
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    cursor: pointer;
+    z-index: 5;
+ }
+ .xinlang{
+    background: url(../images/base.png)no-repeat -218px -91px;
+ }
+ .weixin{
+    background: url(../images/base.png)no-repeat -302px -91px;
+ }
+ .kongjian{
+    background: url(../images/base.png)no-repeat -344px -91px;
+ }
+ .copyright{
+    font-size: 12px;
+    color: black;
+    text-align: center;
+ }
+ .language{
+    position: absolute;
+    width: 78px;
+    height: 81px;
+    top: -67px;
+    right: -8px;background: #fff;
+    border: 1px solid #32a5e7;
+    display: none;
+    
+ }
+ .language a{
+    width: 78px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    display: block;
+ }
+ .language a:nth-child(1){
+    border-bottom: 1px solid #32a5e7;
+ }
+ .ewmgzh{
+ display: none;
+    position: absolute;
+    width: 182px;
+    height: 210px;
+    overflow: hidden;
+    background: url(../images/weixin.png)no-repeat center center;
+    top:-233px;
+    right: -29px;
+ }

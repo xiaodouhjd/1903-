@@ -1,0 +1,255 @@
+body{
+    background-color: #F4F6FA;
+}
+#header{
+    position: relative;
+    width: 100%;
+    z-index: 998;
+    
+    background-color: #fff;
+    border-bottom: 1px solid #efefef;
+}
+.head{
+    width: 1240px;
+    height: 80px;
+    margin: 0 auto;
+}
+.logo{
+    max-width: 125px;
+    margin-top: 28px;
+    float: left;
+}
+.logo>img{
+    max-width: 125px;
+}
+.logo>h1{
+    text-indent: -999999px;
+}
+.nav_1{
+float: left;
+height: 80px;
+line-height: 80px;
+margin-left: 50px;
+}
+.nav_1>li{
+    float: left;
+    padding: 0 5px;
+}
+.h_r{
+    float:right;
+    width: 230px;
+    position: relative;
+    height: 80px;
+    
+}
+.wddd{
+    float: left;
+    height: 100px;
+    margin-right: 15px;
+    font-size: 12px;
+    margin-top: 30px;
+    
+}
+.s_1{
+    width: 158px;
+    display: block;
+    font-size: 12px;
+}
+.status{
+    width: 150px;
+    padding: 0 20px;
+    position: absolute;
+    top: 24px;
+    right: 4px; 
+    box-sizing: border-box;
+    background: #fff;
+    border: 1px solid #fff; 
+}
+.status>li>a{
+    font-size: 12px;
+    
+}
+.status>a{
+    padding: 5px 0;
+}
+.status>li{
+    padding: 5px 0;
+    display: none;
+}
+.status:hover{
+    border: 1px solid #ccc; 
+}
+
+
+
+
+/* 内容 */
+#content{
+    width: 1240px;
+    min-height: 715px;
+    margin: 10px auto 30px;
+    background-color: #fff;
+    position: relative;
+    display: none;
+}
+.kong_2{
+    width: 500px;
+    margin-top: 40px;
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    margin-left: -200px;
+}
+.gwc_1{
+    width: 100px;
+    height: 114px;
+    background: url(../images/gwc.png)no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 30px;
+    
+}
+.xm_r2{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    color: #666;
+}
+.xm_r2>button{
+    height: 36px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    outline: 0;
+    cursor: pointer;
+    font-size: 14px;
+    min-width: 120px;
+    min-height: 34px;
+    line-height: 34px;
+    transition: .5s all;
+    background-color: #00c3f5;
+    color: #fff;
+    margin-top: 20px;
+}
+.xm_r2>button:hover{
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+#content_2{
+    width: 1240px;
+    min-height: 715px;
+    margin: 10px auto 30px;
+    position: relative;
+}
+.table{
+    background: #fff;
+}
+.img_1{
+    height: 120px;
+    display: block;
+}
+.img_1 img{
+    float: left;
+}
+.img_sz{
+    float: left; 
+    vertical-align: middle;
+    margin-top: 30px
+}
+.checkbox{
+    width: 20px;
+    height: 100px;
+}
+.geshu{
+    width: 40px;
+    height: 30px;
+    text-indent: 13px;
+    border: 1px solid #00c3f5;
+}
+.btn_1{
+    border: 1px solid #00c3f5;
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    outline: none;
+   
+}
+.btn_2{
+    border: 1px solid #00c3f5;
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    outline: none;
+}
+
+.account{
+    width: 1240px;
+    background: #fff;
+    margin: 0 auto;
+    height: 70px;
+    padding: 25px 0;
+    box-sizing: border-box;
+}
+.a_r{
+    float: right;
+    width: 400px;
+    
+}
+.jiesuan{
+    float: left;
+}
+.je{
+    float: left;
+    margin-left: 20px;
+    font-size: 20px;
+    color:red;
+}
+.jiesuanbtn{
+    float: right;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cnm{
+    width: 100%;
+    background: #fff;
+}
